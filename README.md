@@ -1,5 +1,5 @@
 # Ermine_WGS_2018
-usage:
+usage: 
     vcf_spacing50 [options] input_vcf output_vcf
 where the options are:
     -h,--help : print usage and quit
